@@ -2,7 +2,7 @@
 
 - 👀  I’m interested in Web Development
 
-- 🌱  I’m currently learning Vue.js... and Japanese!
+- 🌱  I’m currently learning Vue.js
 
 - 📫  Reach me at annasfe at gmail.
 
