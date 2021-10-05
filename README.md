@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @annasfe
+<h2>👋 Hi, I’m AnnA</h2>
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on any frontend web project
