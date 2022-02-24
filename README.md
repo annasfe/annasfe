@@ -1,8 +1,8 @@
 <h2>👋 Hi, I’m AnnA</h2>
 
-- 👀  I’m interested in Web Development
+- 👀  I’m a Web Developer!
 
-- 🌱  I’m currently learning Vue.js
+- 🌱  I’m currently learning Vue.js and playing with React
 
 - 📫  Reach me at annasfe at gmail.
 
