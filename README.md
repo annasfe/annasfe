@@ -1,6 +1,6 @@
 <h2>👋 Hi, I’m AnnA</h2>
 
-- 👀  I’m a Web Developer!
+- 👀  I’m a Web Developer who loves learning and teaching!
 
 - 🌱  I’m currently learning Vue.js and playing with React
 
