@@ -2,7 +2,7 @@
 
 - 👀  I’m a Web Developer who loves learning and teaching!
 
-- 🌱  I’m currently learning Vue.js and playing with React
+- 🌱  I’m currently getting more in depth with React and learning Typescript
 
 - 📫  Reach me at annasfe at gmail.
 
