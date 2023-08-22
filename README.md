@@ -2,7 +2,7 @@
 
 - 👀  I’m a Web Developer who loves learning and teaching!
 
-- 🌱  I’m currently getting more in depth with React and learning Typescript
+- 👩‍🏫  My repos are mostly activities for my classes, NodeJS, React and Vue based.
 
 - 📫  Reach me at annasfe at gmail.
 
